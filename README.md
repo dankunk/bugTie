@@ -15,7 +15,8 @@ Environment -
 - Please be aware that this environment is currently still in development. Some packages may be removed upon commiting the final build.
 
 Directory Structure -
-`│   .gitignore # Allows one to ignore our large files (genomes, raw reads, output files, etc.)
+```
+│   .gitignore # Allows one to ignore our large files (genomes, raw reads, output files, etc.)
 │   bugTie_envi.yaml # Allows one to install all required dependencies.
 │   README.md # Markdown readme file (this file!)
 │   
@@ -29,4 +30,5 @@ Directory Structure -
 │       rawdataReadMe.txt
 │
 └───Scripts # This directory stores our scripts.
-        scriptsReadMe.txt`
+        scriptsReadMe.txt
+```

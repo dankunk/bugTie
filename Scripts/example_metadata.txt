@@ -1,0 +1,12 @@
+T1_2_1.fq	T1_2_2.fq	RP01	01_zt4_2	zt4	1
+T1_3_1.fq	T1_3_2.fq	RP02	02_zt4_3	zt4	2
+T1_4_1.fq	T1_4_2.fq	RP03	03_zt4_4	zt4	3
+T1_5_1.fq	T1_5_2.fq	RP04	04_zt4_5	zt4	4
+T2_2_1.fq	T2_2_2.fq	RP05	05_zt8_2	zt8	1
+T2_3_1.fq	T2_3_2.fq	RP06	06_zt8_3	zt8	2
+T2_4_1.fq	T2_4_2.fq	RP07	07_zt8_4	zt8	3
+T2_5_1.fq	T2_5_2.fq	RP08	08_zt8_5	zt8	4
+T3_2_1.fq	T3_2_2.fq	RP09	09_zt12_2	zt12	1
+T3_3_1.fq	T3_3_2.fq	RP10	10_zt12_3	zt12	2
+T3_4_1.fq	T3_4_2.fq	RP11	11_zt12_4	zt12	3
+T3_5_1.fq	T3_5_2.fq	RP12	12_zt12_5	zt12	4

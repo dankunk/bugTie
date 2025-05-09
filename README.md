@@ -1,6 +1,11 @@
 # bugTie 
 ## bugTie is an Illumina short-read RNAseq analysis pipeline.
 
+## NOTE!!! bugTie is now tango (Time-series Analysis of Novel Gene Oscillations)! and is currently in development. Check back for more soon!
+
+### This repo will eventually get deleted!
+
+
 Features -
 - Low disk footprint by only utilizing gzipped files and directly piping the stdout of HISAT2 into SAMtools.
 - Allows for novel isoform detection using the Stringtie suite.
